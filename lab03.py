@@ -1,3 +1,7 @@
+# COMP 2152 - Lab 03
+# Author: Fellipe C.T De Camargo
+# GBC Id: 101497831
+
 # Import the random library to use for the dice later
 import random
 
